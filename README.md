@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=C627F7&vCenter=true&width=320&lines=wskejfisjad;Sorry%2C+my+bad;Hi+there%2C+I'm+ben)](https://git.io/typing-svg)
+<h1  align='center'> 
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&duration=3000&pause=300&color=C627F7&center=true&vCenter=true&width=320&lines=wskejfisjad;Sorry%2C+my+bad;Hi+there%2C+I'm+ben" alt="Typing SVG" /></a>
+
+</h1> 
 
 ![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=0x5b62656e5d&count_private=true&show_icons=true&theme=material-palenight)
 
