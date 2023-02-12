@@ -4,7 +4,7 @@
 
 </h1> 
 
-![ben's GitHub stats](https://github-readme-stats-git-master-0x5b62656e5d.vercel.app/api?username=0x5b62656e5d&count_private=true&show_icons=true&theme=material-palenight)
+![ben's GitHub stats](https://github-readme-stats-kw3m-0x5b62656e5d.vercel.app/api?username=0x5b62656e5d&count_private=true&show_icons=true&theme=material-palenight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x5b62656e5d&theme=material-palenight&mode=weekly)](https://git.io/streak-stats)
 
