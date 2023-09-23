@@ -19,7 +19,7 @@
   
 </div>
 
-<p align="center"><a href="https://github.com/0x5b62656e5d"><img alt="ben's GitHub stats" src='https://github-readme-stats.vercel.app/api?username=0x5b62656e5d&count_private=true&show_icons=true&theme=material-palenight'></a></p>
+<p align="center"><a href="https://github.com/0x5b62656e5d"><img alt="ben's GitHub stats" src='https://github-readme-stats-0x5b62656e5d.vercel.app/api?username=0x5b62656e5d&count_private=true&show_icons=true&theme=material-palenight'></a></p>
 
 <p align="center"><a href="https://github.com/0x5b62656e5d"><img alt='GitHub Streak' src='http://github-readme-streak-stats.herokuapp.com?user=0x5b62656e5d&theme=material-palenight&mode=weekly)](https://git.io/streak-stats'></a></p>
 
