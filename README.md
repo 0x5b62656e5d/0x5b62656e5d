@@ -8,11 +8,10 @@
 
 ## 💬&ensp;Connect with me
 
-[<img align="left" alt="Ben Kou | Gmail" width="32px" style="padding: 10px;" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />](mailto:dev.benjamink@gmail.com)
-[<img align="left" alt="Ben Kou | LinkedIn" width="32px" style="padding: 10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/benjamin-kou/)
-[<img align="left" alt="Ben Kou | Discord" width="32px" style="padding: 10px;" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" />](https://discordapp.com/users/936640230272942091)
+[![Email](https://img.shields.io/badge/email-b572fc?style=for-the-badge)](mailto:pepper@pepper.fyi)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([mailto:pepper@pepper.fyi](https://www.linkedin.com/in/benjamin-kou/))
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/936640230272942091)
 
-<br />
 <br />
 
 ## 💻&ensp;Tech stack
