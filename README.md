@@ -4,7 +4,7 @@
 
 - Based in Taipei, Taiwan 🇹🇼
 - Tech enthusiast
-- Full stack Node.js developer
+- Full stack developer
 
 ## Connect with me
 
