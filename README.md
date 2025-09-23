@@ -42,8 +42,8 @@
 ## Github Stats
 
 <div align="center">
-<img height="165px" alt="ben's GitHub stats" src='https://github-readme-stats.pepper.fyi/api?username=0x5b62656e5d&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&rank_icon=github' />
-<img height="165px" alt='GitHub Streak' src='http://github-readme-streak-stats.pepper.fyi?user=0x5b62656e5d&theme=material-palenight&mode=weekly' />
+<img height="165px" alt="ben's GitHub stats" src='https://github-readme-stats.benkou.dev/api?username=0x5b62656e5d&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&rank_icon=github' />
+<img height="165px" alt='GitHub Streak' src='http://github-readme-streak-stats.benkou.dev?user=0x5b62656e5d&theme=material-palenight&mode=weekly' />
 </div>
 
 <br />
