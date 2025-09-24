@@ -49,7 +49,7 @@
 <br />
 
 <div align="center">
-<img alt="Github ranks" src='https://github-profile-trophy.vercel.app/?username=0x5b62656e5d&theme=dracula&title=-Stars,-Followers&no-frame=true&margin-w=5&column=-1' />
+<img alt="Github ranks" src='https://github-profile-trophy.benkou.dev/?username=0x5b62656e5d&theme=dracula&title=-Stars,-Followers&no-frame=true&margin-w=5&column=-1' />
 </div>
 
 ## Music
