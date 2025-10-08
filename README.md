@@ -11,6 +11,7 @@
 [![Email](https://img.shields.io/badge/email-242938?style=for-the-badge&logo=gmail)](mailto:hello@benkou.dev)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/benjamin-kou/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/936640230272942091)
+[![Ko-Fi](https://img.shields.io/badge/Support%20me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/0x5b62656e5d)
 
 ## Languages
 
